@@ -1,0 +1,17 @@
+{
+    "id": "c20d33ba-2417-406e-8683-ce18f7e190df",
+    "scriptName": "Remove Details Blocks",
+    "findRegex": "<details\\b[^>]*>(?:.(?!<\\/details>))*<\\/details>",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": false,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}

@@ -1,0 +1,18 @@
+{
+    "id": "1fa9bb84-f9b3-45d1-a5a8-241cc994685a",
+    "scriptName": "Replace Formatted Single Quote",
+    "findRegex": "/‘|’/g",
+    "replaceString": "'",
+    "trimStrings": [],
+    "placement": [
+        1,
+        5
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}

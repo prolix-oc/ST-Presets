@@ -1,0 +1,18 @@
+{
+    "id": "257b6a30-9743-47db-9968-c1c3bfbc330d",
+    "scriptName": "Replace Formatted Quote",
+    "findRegex": "/“|”/g",
+    "replaceString": "\"",
+    "trimStrings": [],
+    "placement": [
+        1,
+        5
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
