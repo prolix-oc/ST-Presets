@@ -1,4 +1,8 @@
-# Prompt Presets Repository
+# Prolix's ST Presets and Characters
+
+Home to Lumia herself, the Lucid Loom's weaver!
+
+![Lumia's portrait](Images/Lumia-1.png)
 
 Welcome to this digital archive—a quiet repository for the tools I've forged in the shadows of AI experimentation. Here, you'll find a curated collection of prompt presets, character cards, chat completion configurations, and nascent world books, all designed to enhance interactions in conversational AI environments. This space serves as both a personal vault and a shared resource for those navigating the neon-lit corridors of prompt engineering.
 
