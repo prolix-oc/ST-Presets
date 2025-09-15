@@ -10,7 +10,7 @@ Well, you made it: the *peak* of RP card experience. Every card in here is craft
 ## Important Things to Know
 The content baked into the card won't make your RP sessions magically smarter, but... if you've got the know-how and the context: I have a **world info book** you can combine with these cards for the ultimate lore-accurate RP experience.
 
-**[Download the Lore Book](/World%20Books/Complete%20ZZZ%20Lorebook.json)**
+**[Download the Lore Book](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/World%20Books/Complete%20ZZZ%20Lorebook.json)**
 
 ## Table of Contents
 - [Astra Yao](#astra-yao)
