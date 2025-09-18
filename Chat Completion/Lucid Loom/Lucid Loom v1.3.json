@@ -2333,6 +2333,10 @@
             "character_id": 100001,
             "order": [
                 {
+                    "identifier": "10983c96-7e4f-441a-a1e9-11b205562a74",
+                    "enabled": true
+                },
+                {
                     "identifier": "93ee0e6f-ad4d-482a-b7a8-23d89403320d",
                     "enabled": true
                 },
@@ -2366,7 +2370,7 @@
                 },
                 {
                     "identifier": "6707609c-3c48-4965-969a-4a5971786816",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "4b1492be-c486-4833-978c-9d41bddeb864",
@@ -2374,7 +2378,7 @@
                 },
                 {
                     "identifier": "d71f37cd-f0fd-4617-9178-a278250fca79",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "e673e500-95ea-41e8-b5ff-38f6c371cdd4",
@@ -2546,15 +2550,15 @@
                 },
                 {
                     "identifier": "efbfd704-262e-4d24-9d7a-b40f88beb822",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "8099cefb-7a38-42e4-84e2-712cb3e1d3d7",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "4cf7c48f-7f8b-4323-803f-7ed43d6263cd",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "80551226-017b-46d4-ad0e-167fe27299c7",
@@ -2562,19 +2566,19 @@
                 },
                 {
                     "identifier": "245b7302-6275-45b3-9a19-9187ce9572c4",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "97f8d1bc-6662-4a83-be8f-f853a68e8ee3",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "e3f25879-4451-46bf-a6e3-83600d0e53c1",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "41630741-e3ce-4f31-bb39-b938322a96d7",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "5d0aa890-e3da-49fa-b768-03eb0bde3f63",
@@ -2594,7 +2598,7 @@
                 },
                 {
                     "identifier": "b2ff11bb-e597-46d8-bb7e-7de7c2db4fe3",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "0bf3a632-c78e-400a-9a84-19429145dba6",
@@ -2606,7 +2610,7 @@
                 },
                 {
                     "identifier": "2b6a3fac-b33f-41b2-98e3-2d083e064db1",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "d56ab006-af4d-4045-a92b-1ff9e7edab75",
@@ -2622,43 +2626,43 @@
                 },
                 {
                     "identifier": "5ac17d8f-29da-4a77-9386-ee7911a4ed6e",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "f0deb9f9-3bb8-4dce-9b10-dadf02b35ef9",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "c3b6e064-471f-4ee8-8be2-5392f90c0501",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "407696ce-c252-4cd9-9109-aabfe9510141",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "35aec45c-bf77-4fed-94c3-97f566f8cc7f",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "d8f45043-fad8-438b-adc6-fca5622e0834",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "e078a5d5-9d4b-4dda-a348-75ae3a08f7ea",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "78388a57-0f0d-4cf7-a81b-086d42e62e5f",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "fa0612f4-7a5a-45bd-90cd-24470d4b43c2",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "70f2f34b-e6ed-415f-9121-0da0319beb49",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "17a39667-4770-49fe-a976-087970999942",
@@ -2718,7 +2722,7 @@
                 },
                 {
                     "identifier": "d8c78dbd-06af-4df0-a12b-f8f37f6f59aa",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "8ee37a00-9960-4cef-9244-a7651ecdc9c2",
@@ -2742,23 +2746,23 @@
                 },
                 {
                     "identifier": "d1064a3e-dead-4443-b5c4-e591399c836a",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "da2bc9d4-329b-4c4e-8cdb-91f7935d0d99",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "89101bce-a96f-45a0-aae9-27eccbfe72aa",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "2d193ca1-8488-4e28-950d-b8ba10eab37e",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "36bc0112-142d-492b-a8a6-784a9ec1da63",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "b2986981-03b4-49e1-a63f-3b55dd1b579f",
@@ -2786,7 +2790,7 @@
                 },
                 {
                     "identifier": "93f4c7ea-4c62-44ce-a85a-70bcb4014dec",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "ffa0397c-808c-46a2-9ce5-8b342a508b4a",
@@ -2794,15 +2798,15 @@
                 },
                 {
                     "identifier": "64879b9d-5d66-490b-8601-1f1d4d7ca60e",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "8b4548d2-b425-4f1a-862b-a03ec22bb145",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "b2bb224a-20bc-45ed-a4ed-183e19cf7e0f",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "40741412-d49c-4eba-a513-7cb244471000",
@@ -2842,7 +2846,7 @@
                 },
                 {
                     "identifier": "9d3844c2-59ed-4097-b4cb-7f43718f91f8",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "a81ef33e-5f44-4f19-9cb9-4e63bc8ff276",
@@ -2850,7 +2854,7 @@
                 },
                 {
                     "identifier": "1769a4ef-0ad3-4355-b772-ddb21d75b454",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "e3318656-51f9-4972-9e96-c7a68ed28b25",
@@ -2866,7 +2870,7 @@
                 },
                 {
                     "identifier": "f91428f4-0de5-45e5-8505-843f7cb9ab74",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "4e1adebf-8843-41f6-8343-205ea67b823a",
@@ -2874,7 +2878,7 @@
                 },
                 {
                     "identifier": "f80e59b3-bd7d-4031-9fee-8c6852cfb6a5",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "0668345d-43dd-43f2-9103-8a88f9455534",
@@ -2950,7 +2954,7 @@
                 },
                 {
                     "identifier": "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
-                    "enabled": true
+                    "enabled": false
                 }
             ]
         }
