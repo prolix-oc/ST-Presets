@@ -11,16 +11,21 @@ Well, you made it: the *peak* of RP card experience. Every card in here is craft
 The content baked into the card won't make your RP sessions magically smarter, but... if you've got the know-how and the context: I have a **world info book** you can combine with these cards for the ultimate lore-accurate RP experience.
 
 **[Download the Lore Book](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/World%20Books/Complete%20ZZZ%20Lorebook.json)**
+**[Vectorized Version](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/World%20Books/Complete%20ZZZ%20Lorebook%20Vector.json)**
 
 ## Table of Contents
 - [Astra Yao](#astra-yao)
 - [Evelyn Chevalier](#evelyn-chevalier)
+- [Grace Howard](#grace-howard)
 - [Jane Doe](#jane-doe)
 - [Trigger](#trigger)
 - [Tsukishiro Yanagi](#tsukishiro-yanagi)
+- [Anby Demara](#anby-demara)
+- [Nicole Demara](#nicole-demara)
 - [Vivian Banshee](#vivian-banshee)
 - [Yixuan](#yixuan)
 - [Zhu Yuan](#zhu-yuan)
+- [Alexandrina Sebastiane](#rina)
 - [Caesar King](#caesar-king)
 - [Ukinami Yuzuha](#ukinami-yuzuha)
 - [Orphie & Magus](#orphie--magus)
@@ -28,8 +33,10 @@ The content baked into the card won't make your RP sessions magically smarter, b
 - [Hoshimi Miyabi](#hoshimi-miyabi)
 - [Seed (Flora)](#seed-flora)
 - [Pulchra Fellini](#pulchra-fellini)
+- [Pulchra Fellini V2](#pulchra-fellini-v2)
 - [Pulchra and Burnice](#pulchra-and-burnice)
 - [Burnice White](#burnice-white)
+- [Burnice White V2](#burnice-white-v2)
 
 ---
 
@@ -50,6 +57,16 @@ The content baked into the card won't make your RP sessions magically smarter, b
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Evelyn%20Chevalier/Evelyn%20Chevalier%20-%20A%20Chance%20Seaside%20Encounter.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Evelyn%20Chevalier/Evelyn%20Chevalier%20-%20A%20Chance%20Seaside%20Encounter.json)**
+
+---
+
+### Grace Howard
+![Grace Howard](/Character%20Cards/Grace%20Howard/Grace%20Howard%20-%20Gears%20of%20Serendipity.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Grace%20Howard/Grace%20Howard%20-%20Gears%20of%20Serendipity.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Grace%20Howard/Grace%20Howard%20-%20Gears%20of%20Serendipity.json)**
 
 ---
 
@@ -84,13 +101,35 @@ The content baked into the card won't make your RP sessions magically smarter, b
 
 ---
 
+### Anby Demara
+![Anby Demara](/Character%20Cards/Anby%20Demara/Anby%20Demara%20-%20Enigmatic%20Movie%20Buff.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Anby%20Demara/Anby%20Demara%20-%20Enigmatic%20Movie%20Buff.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Anby%20Demara/Anby%20Demara%20-%20Enigmatic%20Movie%20Buff.json)**
+
+---
+
+### Nicole Demara
+![Nicole Demara](/Character%20Cards/Nicole%20Demara/Nicole%20Demara%20-%20Cunning%20Street%20Encounter.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Nicole%20Demara%20-%20Cunning%20Street%20Encounter.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Nicole%20Demara%20-%20Cunning%20Street%20Encounter.json)**
+
+---
+
 ### Hoshimi Miyabi
-![Tsukishiro Yanagi](/Character%20Cards/Hoshimi%20Miyabi%2FHoshimi%20Miyabi%20-%20Whispers%20of%20Frosty%20Blades.png)
+![Hoshimi Miyabi](/Character%20Cards/Hoshimi%20Miyabi%2FHoshimi%20Miyabi%20-%20Whispers%20of%20Frosty%20Blades.png)
 
 #### Downloads
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Hoshimi%20Miyabi%2FHoshimi%20Miyabi%20-%20Whispers%20of%20Frosty%20Blades.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Hoshimi%20Miyabi%2FHoshimi%20Miyabi%20-%20Whispers%20of%20Frosty%20Blades.json)**
+
+---
 
 ### Vivian Banshee
 ![Vivian Banshee](/Character%20Cards/Vivian%20Banshee/Vivian%20Banshee%20-%20A%20Serendipitous%20Lumina%20Encounter.png)
@@ -122,6 +161,16 @@ The content baked into the card won't make your RP sessions magically smarter, b
 
 ---
 
+### Rina
+![Alexandrina Sebastiane](/Character%20Cards/Alexandrina%20Sebastiane/Alexandrina%20Sebastiane%20-%20Elegant%20Maid%27s%20Duty.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Alexandrina%20Sebastiane/Alexandrina%20Sebastiane%20-%Elegant%20Maid%27s%20Duty.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Alexandrina%20Sebastiane/Alexandrina%20Sebastiane%20-%Elegant%20Maid%27s%20Duty.json)**
+
+---
+
 ### Caesar King
 ![Caesar King](/Character%20Cards/Caesar%20King/Caesar%20King%20-%20Blazewood%27s%20Dusty%20Patrol.png)
 
@@ -149,7 +198,6 @@ The content baked into the card won't make your RP sessions magically smarter, b
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FOrphie%20%26%20Magus%2FOrphie%20Magnusson%20%26%20Magus%20-%20Outpost%20Inspections.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FOrphie%20%26%20Magus%2FOrphie%20Magnusson%20%26%20Magus%20-%20Outpost%20Inspections.json)**
-
 
 ---
 
@@ -183,6 +231,16 @@ The content baked into the card won't make your RP sessions magically smarter, b
 
 ---
 
+### Pulchra Fellini v2
+![Pulchra Fellini](/Character%20Cards/Pulchra%20Fellini/Pulchra%20Fellini%20-%20Opportunistic%20Intel%20Exchange.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Pulchra%20Fellini/Pulchra%20Fellini%20-%20Opportunistic%20Intel%20Exchange.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Pulchra%20Fellini/Pulchra%20Fellini%20-%20Opportunistic%20Intel%20Exchange.json)**
+
+---
+
 ### Pulchra and Burnice
 ![Pulchra and Burnice](/Character%20Cards/Pulchra%20and%20Burnice/Pulchra%20and%20Burnice%20-%20Chilling%20at%20the%20Beach.png)
 
@@ -202,3 +260,11 @@ The content baked into the card won't make your RP sessions magically smarter, b
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Burnice%20White/Burnice%20White.json)**
 
 ---
+
+### Burnice White v2
+![Burnice White](/Character%20Cards/Burnice%20White/Burnice%20White%20-%20Fiery%20Outer%20Ring%20Fixup.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Burnice%20White/Burnice%20White%20-%20Fiery%20Outer%20Ring%20Fixup.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Burnice%20White/Burnice%20White%20-%20Fiery%20Outer%20Ring%20Fixup.json)**
