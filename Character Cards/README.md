@@ -82,7 +82,6 @@ The content baked into the card won't make your RP sessions magically smarter, b
 
 ### Trigger
 ![Trigger](/Character%20Cards/Trigger/Trigger%20-%20Ballet%20Twins%20Riverside%20Encounter.png)
-**[Download Card for Trigger](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Trigger/Trigger%20-%20Ballet%20Twins%20Riverside%20Encounter.png)**
 
 #### Downloads
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Trigger/Trigger%20-%20Ballet%20Twins%20Riverside%20Encounter.png)**
