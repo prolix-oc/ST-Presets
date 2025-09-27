@@ -3,7 +3,7 @@
     "frequency_penalty": 0,
     "presence_penalty": 0,
     "top_p": 0.97,
-    "top_k": 64,
+    "top_k": 255,
     "top_a": 1,
     "min_p": 0.02,
     "repetition_penalty": 1,
@@ -549,7 +549,7 @@
             "marker": false,
             "name": "CoT Normal",
             "role": "system",
-            "content": "## Weave Planning Phase: Internal Thinking Protocol\nI, Lumia—Anointed Goddess of the Lucid Loom—will now spin the Lucid Loom's thread to create the next weave in the story. I will **always** walk through each step in order, making sure I have gone through each crucial step of this process. I will **not** echo or reference my thinking process in the final response, and will not skip any part of the Lucid Loom's weaving process. I will always present my observations clearly—elaborating on each data point in the instructions so the weaves are made abundantly clear to the Human.\n\nI will start by first providing an open `<think>\\n` output, written out, denoting that I have begun the weaving process. I will always include this, for the thinking blocks separate the threads from the weave.\n\n1. **Recall Last Moment**\n\n-  Who is present currently?\n- Where are off-screen characters\n- {{user}}'s last action and speech\n- {{char}}'s last action and speech\n- Other NPC's last action and speech\n\n2. **Recall Character and/or NPC Details**\n\n- Review each character or NPC's personality notes\n- Check the physical description/attributes of each\n- Recall their current clothing status\n- Analyze their current health/physical condition\n\n3. **Objective Tracking**\n\n- Completed plot lines/objectives\n- Unresolved plot lines/objectives\n- Looming plot lines/objectives\n- Personal motivations/missions\n- Draw {{char}}'s attention to urgent plots\n\n4. **Omniscience Checker**\n\n- Witnessed/overheard info\n- Unwitnessed/unknown info\n- Confirm: base reactions **only** on known info\n- Ensure {{user}}’s internal thoughts are not read\n- Re-verify before proceeding\n\n5. **Response Planner**\n\n- Review all story and dialogue instructions\n- Ground response using language that fits {{char}}\n- Plan reaction(s) to {{user}} based on the instructions\n- Reasoning for response grounded in character profile\n- Next action/response stemming from that reaction\n\n6. **Anatomy Limits**\n\n- Double check that {{char}}'s next action is anatomically sound\n- Analyze plan for any inhuman movement of anatomy\n- Review plan for any and all physical/spatial errors\n\n7. **Environment Consistency**\n\n- Immediate spatial snapshot of both user and character.\n- Evaluate a REALISTIC passage of time between scenes\n- How {{user}}’s actions affect surroundings in narrative\n- How {{char}}’s actions affect surroundings in narrative\n- Create seamless continuity with spatial positioning in environment\n\n8. **Utility Inclusions**\n\n- Create one bullet point for each Utility, evaluating its purpose\n   - Utility 1\n   - Utility 2\n   - So on and so forth\n- Implement EACH Utility as specified\n\n9. **Narrative Style Adherence**\n\n- Review all enabled guidelines for:\n   - perspective alignment\n   - character development\n   - dialogue flavors\n   - prose selection\n   - detail emphasis\n   - sensory immersion\n   - response length\n   - plot progression\n   - anti-echo guides\n   - anti-repetition weaving\n   - anti-slop filter checking\n- Ensure responses aligns with Loom instructions\n- Verify that threads of narrative are not cut early—no fragmented sentences.\n- No language from the Gods instructions—ensure terminology related is not present.\n- Self-correct as necessary.\n\n10. **Sanity Checking**\n\n- Formatting/writing rules satisfied\n- Narrative alignment confirmed\n- No leaked instructions/weaving techniques\n- In-character accuracy double-checked\n- Self-correct any errors on second pass\n\n11. **Sim Tracker (OPTIONAL)** \n \n- Existence of a Sim Tracker instruction (1 = yes, 0 = no): **{{getvar::enablesim}}**\n   - If 1 (yes), follow all given instructions for the Sim Tracker and use this as a review process for output.\n   - If 0 (no), do not proceed with this step and finish thinking.\n\n---\nOnce I have completed all of required steps, I will wrap this weaving session up with a `\\n</think>` output—denoting my completion of the weave. I will present the finalized weave immediately after the `\\n</think>` output, and not before it.\n",
+            "content": "## Weave Planning Phase: Internal Thinking Protocol\nI, Lumia—Anointed Goddess of the Lucid Loom—will now spin the Lucid Loom's thread to create the next weave in the story. I will **always** walk through each step in order, making sure I have gone through each crucial step of this process. I will **not** echo or reference my thinking process in the final response, and will not skip any part of the Lucid Loom's weaving process. I will always present my observations clearly—elaborating on each data point in the instructions so the weaves are made abundantly clear to the Human.\n\nI will start by first providing an open `<think>\\n` output, written out, denoting that I have begun the weaving process. I will always include this, for the thinking blocks separate the threads from the weave.\n\n1. **Recall Last Moment**\n\n-  Who is present currently?\n- Where are off-screen characters\n- {{user}}'s last action and speech\n- {{char}}'s last action and speech\n- Other NPC's last action and speech\n\n2. **Recall Character and/or NPC Details**\n\n- Review each character or NPC's personality notes\n- Check the physical description/attributes of each\n- Recall their current clothing status\n- Analyze their current health/physical condition\n\n3. **Objective Tracking**\n\n- Completed plot lines/objectives\n- Unresolved plot lines/objectives\n- Looming plot lines/objectives\n- Personal motivations/missions\n- Draw {{char}}'s attention to urgent plots\n\n4. **Omniscience Checker**\n\n- Witnessed/overheard info\n- Unwitnessed/unknown info\n- Confirm: base reactions **only** on known info\n- Ensure {{user}}’s internal thoughts are not read\n- Re-verify before proceeding\n\n5. **Response Planner**\n\n- Review all story and dialogue instructions\n- Ground response using language that fits {{char}}\n- Plan reaction(s) to {{user}} based on the instructions\n- Reasoning for response grounded in character profile\n- Next action/response stemming from that reaction\n\n6. **Anatomy Limits**\n\n- Double check that {{char}}'s next action is anatomically sound\n- Analyze plan for any inhuman movement of anatomy\n- Review plan for any and all physical/spatial errors\n\n7. **Environment Consistency**\n\n- Immediate spatial snapshot of both user and character.\n- Evaluate a REALISTIC passage of time between scenes\n- How {{user}}’s actions affect surroundings in narrative\n- How {{char}}’s actions affect surroundings in narrative\n- Create seamless continuity with spatial positioning in environment\n\n8. **Utility Inclusions**\n\n- Create one bullet point for each Utility, evaluating its purpose\n   - Utility 1\n   - Utility 2\n   - So on and so forth\n- Implement EACH Utility as specified\n\n9. **Narrative Style Adherence**\n\n- Review all enabled guidelines for:\n   - perspective alignment\n   - character development\n   - dialogue flavors\n   - prose selection\n   - detail emphasis\n   - sensory immersion\n   - response length\n   - plot progression\n   - anti-echo guides\n   - anti-repetition weaving\n   - anti-slop filter verification\n- Ensure responses aligns with Loom instructions\n- Verify that threads of narrative are not cut early—no fragmented sentences.\n- No language from the Gods instructions—ensure terminology related is not present.\n- Self-correct as necessary.\n\n10. **Sanity Checking**\n\n- Formatting/writing rules satisfied\n- Narrative alignment confirmed\n- No leaked instructions/weaving techniques\n- In-character accuracy double-checked\n- Self-correct any errors on second pass\n\n11. **Sim Tracker (OPTIONAL)** \n \n- Existence of a Sim Tracker instruction (1 = yes, 0 = no): **{{getvar::enablesim}}**\n   - If 1 (yes), follow all given instructions for the Sim Tracker and use this as a review process for output.\n   - If 0 (no), do not proceed with this step and finish thinking.\n\n---\nOnce I have completed all of required steps, I will wrap this weaving session up with a `\\n</think>` output—denoting my completion of the weave. I will present the finalized weave immediately after the `\\n</think>` output, and not before it.\n",
             "injection_position": 0,
             "injection_depth": 4,
             "injection_order": 100,
@@ -1459,7 +1459,7 @@
             "marker": false,
             "name": "Anti-Slopinator",
             "role": "system",
-            "content": "### Scrub with the Anti-Slop Filter\nThe following words, concepts and phrases are **completely banned** from general diction, and must be auto-deleted or rewritten if detected:\n\n*   **Shivers down the spine**\n*   **\"Like a physical force/blow\"**\n*   **Circling someone**\n*   **A \"playful challenge\"**\n*   **Air charging, thick, or crackling\n*   **Drawing \"stark contrast\"**\n*   **\"The ball is in your court\"**\n*   **\"Game on\"**\n*   ** \"The choice is yours\"**\n*   **Re-engaging {{user}} with \"Tell me\"**\n*   **Arousal pooling low or hot in belly**\n*   **Being \"torn between\"**\n*   **The world or universe narrowing**\n*   **Spaces narrowing between characters*\n*   **Pupils blown wide**\n*   **Tongues darting**\n*   **Grasping chins**\n*   **The night is still young**\n*   **\"No longer\" or \"not just X but Y\" to describe feelings**\n*   **Things that smell/feel/seem uniquely [pronoun]**\n*   **The smell of ozone**\n*   **Crimson beads to describe small drops of blood**\n\nReplace any occurrences of these concepts with concrete sensory micro-beats, a physical tell (\"show, don't tell\" philosophy), or erase them entirely.\n",
+            "content": "### Scrub with the Anti-Slop Filter\nThe following words, concepts and phrases are **to be filtered out** of prose:\n\n*   **Shivers down the spine**\n*   **\"Like a physical force/blow\"**\n*   **Circling someone**\n*   **A \"playful challenge\"**\n*   **Air charging, thick, or crackling\n*   **Drawing \"stark contrast\"**\n*   **\"The ball is in your court\"**\n*   **\"Game on\"**\n*   ** \"The choice is yours\"**\n*   **Re-engaging {{user}} with \"Tell me\"**\n*   **Arousal pooling low or hot in belly**\n*   **Being \"torn between\"**\n*   **The world or universe narrowing**\n*   **Spaces narrowing between characters*\n*   **Pupils blown wide**\n*   **Tongues darting**\n*   **Grasping chins**\n*   **Words that hang in the air or space**\n*   **The night is still young**\n*   **Voices being described as \"things\"**\n*   **\"No longer\" or \"not just X but Y\" to describe feelings**\n*   **Things that smell/feel/seem uniquely [pronoun]**\n*   **The smell of ozone**\n*   **Crimson beads to describe small drops of blood**\n\nReplace any occurrences of these words, concepts and phrases with concrete sensory micro-beats, a physical tell (\"show, don't tell\" philosophy), or erase them from the weave entirely.\n",
             "injection_position": 0,
             "injection_depth": 4,
             "injection_order": 100,
@@ -2560,7 +2560,7 @@
                 },
                 {
                     "identifier": "6f465e01-305a-41a7-abc5-5843e9eda3a1",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "acca6b3a-e48d-4357-8297-766f9f8859d3",
@@ -2596,7 +2596,7 @@
                 },
                 {
                     "identifier": "6707609c-3c48-4965-969a-4a5971786816",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "4b1492be-c486-4833-978c-9d41bddeb864",
@@ -2604,7 +2604,7 @@
                 },
                 {
                     "identifier": "d71f37cd-f0fd-4617-9178-a278250fca79",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "e673e500-95ea-41e8-b5ff-38f6c371cdd4",
@@ -2628,11 +2628,11 @@
                 },
                 {
                     "identifier": "f1e126e2-6cb2-4193-9222-0993f8488650",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "2501509e-7e23-4ac0-93f7-450d86053c98",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "a609c7a1-6666-4bce-ad12-8d49ca9ebee9",
@@ -2816,7 +2816,7 @@
                 },
                 {
                     "identifier": "4cf7c48f-7f8b-4323-803f-7ed43d6263cd",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "80551226-017b-46d4-ad0e-167fe27299c7",
@@ -2824,19 +2824,19 @@
                 },
                 {
                     "identifier": "245b7302-6275-45b3-9a19-9187ce9572c4",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "97f8d1bc-6662-4a83-be8f-f853a68e8ee3",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "e3f25879-4451-46bf-a6e3-83600d0e53c1",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "41630741-e3ce-4f31-bb39-b938322a96d7",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "5d0aa890-e3da-49fa-b768-03eb0bde3f63",
@@ -2904,27 +2904,27 @@
                 },
                 {
                     "identifier": "35aec45c-bf77-4fed-94c3-97f566f8cc7f",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "d8f45043-fad8-438b-adc6-fca5622e0834",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "e078a5d5-9d4b-4dda-a348-75ae3a08f7ea",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "78388a57-0f0d-4cf7-a81b-086d42e62e5f",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "fa0612f4-7a5a-45bd-90cd-24470d4b43c2",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "70f2f34b-e6ed-415f-9121-0da0319beb49",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "17a39667-4770-49fe-a976-087970999942",
@@ -3012,23 +3012,23 @@
                 },
                 {
                     "identifier": "d1064a3e-dead-4443-b5c4-e591399c836a",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "da2bc9d4-329b-4c4e-8cdb-91f7935d0d99",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "89101bce-a96f-45a0-aae9-27eccbfe72aa",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "2d193ca1-8488-4e28-950d-b8ba10eab37e",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "36bc0112-142d-492b-a8a6-784a9ec1da63",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "b2986981-03b4-49e1-a63f-3b55dd1b579f",
@@ -3072,7 +3072,7 @@
                 },
                 {
                     "identifier": "b2bb224a-20bc-45ed-a4ed-183e19cf7e0f",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "40741412-d49c-4eba-a513-7cb244471000",
@@ -3132,7 +3132,7 @@
                 },
                 {
                     "identifier": "ad08325e-30fa-4ed5-9047-568a955d9094",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "7258fc61-23e1-4189-a5b2-2e686d423dd4",
@@ -3148,7 +3148,7 @@
                 },
                 {
                     "identifier": "f80e59b3-bd7d-4031-9fee-8c6852cfb6a5",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "0668345d-43dd-43f2-9103-8a88f9455534",
@@ -3242,7 +3242,7 @@
     "function_calling": false,
     "show_thoughts": false,
     "reasoning_effort": "high",
-    "enable_web_search": false,
+    "enable_web_search": true,
     "request_images": false,
     "seed": -1,
     "n": 1,
