@@ -3,7 +3,7 @@
     "frequency_penalty": 0,
     "presence_penalty": 0,
     "top_p": 0.97,
-    "top_k": 255,
+    "top_k": 64,
     "top_a": 1,
     "min_p": 0.02,
     "repetition_penalty": 1,
