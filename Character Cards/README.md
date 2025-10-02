@@ -50,6 +50,16 @@ The content baked into the card won't make your RP sessions magically smarter, b
 
 ---
 
+### Seth Lowell
+![Astra Yao](/Character%20Cards/Seth%20Lowell/Seth%20Lowell%20-%20Rookie%20Officer%20Encounter.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Seth%20Lowell/Seth%20Lowell%20-%20Rookie%20Officer%20Encounter.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Seth%20Lowell/Seth%20Lowell%20-%20Rookie%20Officer%20Encounter.json)**
+
+---
+
 ### Evelyn Chevalier
 ![Evelyn Chevalier](/Character%20Cards/Evelyn%20Chevalier/Evelyn%20Chevalier%20-%20A%20Chance%20Seaside%20Encounter.png)
 
