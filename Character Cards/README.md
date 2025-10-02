@@ -60,6 +60,16 @@ The content baked into the card won't make your RP sessions magically smarter, b
 
 ---
 
+### Belle
+![Belle](/Character%20Cards/Belle/Belle%20-%20A%20Fated%20Lumina%20Square%20Encounter.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Belle/Belle%20-%20A%20Fated%20Lumina%20Square%20Encounter.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Belle/Belle%20-%20A%20Fated%20Lumina%20Square%20Encounter.json)**
+
+---
+
 ### Evelyn Chevalier
 ![Evelyn Chevalier](/Character%20Cards/Evelyn%20Chevalier/Evelyn%20Chevalier%20-%20A%20Chance%20Seaside%20Encounter.png)
 
