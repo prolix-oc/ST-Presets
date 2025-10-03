@@ -110,6 +110,16 @@ The content baked into the card won't make your RP sessions magically smarter, b
 
 ---
 
+### Von Lycaon
+![Von Lycaon](/Character%20Cards/Von%20Lycaon/Von%20Lycaon%20-%20Elegant%20Attendant%27s%20Duty.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Von%20Lycaon/Von%20Lycaon%20-%20Elegant%20Attendant%27s%20Duty.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Von%20Lycaon/Von%20Lycaon%20-%20Elegant%20Attendant%27s%20Duty.json)**
+
+---
+
 ### Tsukishiro Yanagi
 ![Tsukishiro Yanagi](/Character%20Cards/Tsukishiro%20Yanagi/Tsukishiro%20Yanagi%20-%20Deputy%20Chief%27s%20Quiet%20Vigil.png)
 
@@ -157,6 +167,16 @@ The content baked into the card won't make your RP sessions magically smarter, b
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Vivian%20Banshee/Vivian%20Banshee%20-%20A%20Serendipitous%20Lumina%20Encounter.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Vivian%20Banshee/Vivian%20Banshee%20-%20A%20Serendipitous%20Lumina%20Encounter.json)**
+
+---
+
+### Anton Ivanov
+![Anton Ivanov](/Character%20Cards/Anton%20Ivanov/Anton%20Ivanov%20-%20Energetic%20Site%20Rendezvous.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Anton%20Ivanov/Anton%20Ivanov%20-%20Energetic%20Site%20Rendezvous.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Anton%20Ivanov/Anton%20Ivanov%20-%20Energetic%20Site%20Rendezvous.json)**
 
 ---
 
