@@ -15,14 +15,17 @@ The content baked into the card won't make your RP sessions magically smarter, b
 
 ## Table of Contents
 - [Astra Yao](#astra-yao)
+- [Seth Lowell](#seth-lowell)
 - [Evelyn Chevalier](#evelyn-chevalier)
 - [Grace Howard](#grace-howard)
 - [Jane Doe](#jane-doe)
 - [Trigger](#trigger)
+- [Von Lycaon](#von-lycaon)
 - [Tsukishiro Yanagi](#tsukishiro-yanagi)
 - [Anby Demara](#anby-demara)
 - [Nicole Demara](#nicole-demara)
 - [Vivian Banshee](#vivian-banshee)
+- [Anton Ivanov](#anton-ivanov)
 - [Yixuan](#yixuan)
 - [Zhu Yuan](#zhu-yuan)
 - [Alexandrina Sebastiane](#rina)
