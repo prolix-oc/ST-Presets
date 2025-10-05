@@ -27,6 +27,7 @@ The content baked into the card won't make your RP sessions magically smarter, b
 - [Vivian Banshee](#vivian-banshee)
 - [Anton Ivanov](#anton-ivanov)
 - [Yixuan](#yixuan)
+- [Lighter](#lighter)
 - [Zhu Yuan](#zhu-yuan)
 - [Alexandrina Sebastiane](#rina)
 - [Caesar King](#caesar-king)
@@ -190,6 +191,26 @@ The content baked into the card won't make your RP sessions magically smarter, b
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Yixuan/Yixuan%20-%20Mystic%20Paths%20Converge.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Yixuan/Yixuan%20-%20Mystic%20Paths%20Converge.json)**
+
+---
+
+### Lighter
+![Lighter](/Character%20Cards/Lighter/Lighter%20-%20Undefeated%20Champion%27s%20Burden.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Lighter/Lighter%20-%20Undefeated%20Champion%27s%20Burden.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Lighter/Lighter%20-%20Undefeated%20Champion%27s%20Burden.json)**
+
+---
+
+### Wise
+![Wise](/Character%20Cards%2FWise%2FWise%20-%20The%20Caffeine-Fueled%20Strategist.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FWise%2FWise%20-%20The%20Caffeine-Fueled%20Strategist.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FWise%2FWise%20-%20The%20Caffeine-Fueled%20Strategist.json)**
 
 ---
 
