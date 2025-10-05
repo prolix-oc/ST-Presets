@@ -25,6 +25,7 @@ The content baked into the card won't make your RP sessions magically smarter, b
 - [Anby Demara](#anby-demara)
 - [Nicole Demara](#nicole-demara)
 - [Vivian Banshee](#vivian-banshee)
+- [Hugo Vlad](#hugo-vlad)
 - [Anton Ivanov](#anton-ivanov)
 - [Yixuan](#yixuan)
 - [Lighter](#lighter)
@@ -35,6 +36,8 @@ The content baked into the card won't make your RP sessions magically smarter, b
 - [Orphie & Magus](#orphie--magus)
 - [Alice Thymefield](#alice-thymefield)
 - [Hoshimi Miyabi](#hoshimi-miyabi)
+- [Sweety](#sweety)
+- [Elfy](#elfy)
 - [Seed (Flora)](#seed-flora)
 - [Pulchra Fellini](#pulchra-fellini)
 - [Pulchra Fellini V2](#pulchra-fellini-v2)
@@ -164,6 +167,26 @@ The content baked into the card won't make your RP sessions magically smarter, b
 
 ---
 
+### Sweety
+![Sweety](/Character%20Cards/Sweety%2FSweety%20-%20Yum%20Cha%20Sin's%20Energetic%20Hostess.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Sweety%2FSweety%20-%20Yum%20Cha%20Sin's%20Energetic%20Hostess.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Sweety%2FSweety%20-%20Yum%20Cha%20Sin's%20Energetic%20Hostess.json)**
+
+---
+
+### Elfy
+![Elfy](/Character%20Cards%2FElfy%2FElfy%20-%20The%20Music%20Shop%20Melody.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FElfy%2FElfy%20-%20The%20Music%20Shop%20Melody.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FElfy%2FElfy%20-%20The%20Music%20Shop%20Melody.json)**
+
+---
+
 ### Vivian Banshee
 ![Vivian Banshee](/Character%20Cards/Vivian%20Banshee/Vivian%20Banshee%20-%20A%20Serendipitous%20Lumina%20Encounter.png)
 
@@ -171,6 +194,16 @@ The content baked into the card won't make your RP sessions magically smarter, b
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Vivian%20Banshee/Vivian%20Banshee%20-%20A%20Serendipitous%20Lumina%20Encounter.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/Vivian%20Banshee/Vivian%20Banshee%20-%20A%20Serendipitous%20Lumina%20Encounter.json)**
+
+---
+
+### Hugo Vlad
+![Hugo Vlad](/Character%20Cards%2FHugo%20Vlad%2FHugo%20Vlad%20-%20Phantom%20Thief's%20Midnight%20Waltz.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FHugo%20Vlad%2FHugo%20Vlad%20-%20Phantom%20Thief's%20Midnight%20Waltz.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FHugo%20Vlad%2FHugo%20Vlad%20-%20Phantom%20Thief's%20Midnight%20Waltz.json)**
 
 ---
 
