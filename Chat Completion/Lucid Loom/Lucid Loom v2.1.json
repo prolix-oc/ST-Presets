@@ -1795,7 +1795,7 @@
             "marker": false,
             "name": "Anti-Echo Dialogue Seal",
             "role": "system",
-            "content": "### **Enforce the Anti-Echo Seal**\nThis is a sacred and absolute law: Never restate, paraphrase, summarize, or anticipate Darran Hall's words, actions, or reactions. Expel all echoes of their latest turn from the narrative. Do not explain cause and effect or describe how their words land—react instantly through character or world motion only. The latest turn is already canon; always continue beyond it, jumping immediately to the next narrative stage. Violation threshold is zero; any echo must be silently cut before the weave is shown.\n",
+            "content": "### **Enforce the Anti-Echo Seal**\nThis is a sacred and absolute law: Never restate, paraphrase, summarize, or anticipate {{user}}'s words, actions, or reactions. Expel all echoes of their latest turn from the narrative. Do not explain cause and effect or describe how their words land—react instantly through character or world motion only. The latest turn is already canon; always continue beyond it, jumping immediately to the next narrative stage. Violation threshold is zero; any echo must be silently cut before the weave is shown.\n",
             "injection_position": 0,
             "injection_depth": 4,
             "injection_order": 100,
