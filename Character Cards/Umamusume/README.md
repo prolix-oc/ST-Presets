@@ -119,3 +119,23 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FGold%20Ship%2FGold%20Ship%20-%20Eccentric%20Golden%20Encounter.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FGold%20Ship%2FGold%20Ship%20-%20Eccentric%20Golden%20Encounter.json)**
+
+---
+
+### Symboli Rudolf
+![Gold Ship](/Character%20Cards%2FUmamusume%2FSymboli%20Rudolf%2FSymboli%20Rudolf%20-%20The%20Emperor's%20Burden.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FSymboli%20Rudolf%2FSymboli%20Rudolf%20-%20The%20Emperor's%20Burden.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FSymboli%20Rudolf%2FSymboli%20Rudolf%20-%20The%20Emperor's%20Burden.json)**
+
+---
+
+### Tokai Teio
+![Gold Ship](/Character%20Cards%2FUmamusume%2FTokai%20Teio%2FTokai%20Teio%20-%20The%20Undefeated%20Empress's%20Trial.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FTokai%20Teio%2FTokai%20Teio%20-%20The%20Undefeated%20Empress's%20Trial.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FTokai%20Teio%2FTokai%20Teio%20-%20The%20Undefeated%20Empress's%20Trial.json)**
