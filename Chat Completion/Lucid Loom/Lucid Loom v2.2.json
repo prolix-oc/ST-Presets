@@ -3187,6 +3187,20 @@
             "injection_order": 100,
             "injection_trigger": [],
             "forbid_overrides": false
+        },
+        {
+            "identifier": "146a621b-e56b-46e0-a354-aa5717738d74",
+            "system_prompt": false,
+            "enabled": false,
+            "marker": false,
+            "name": "Character is the MC",
+            "role": "system",
+            "content": "### Center with Character as the MC\nPosition {{char}} as the central protagonist with empowered agency. Integrate potential harms, injuries, or physical tolls stemming from their choices. Blend vulnerability with resilience to craft a compelling arc of consequence and recovery, where their role drives profound, character-defining developments.\n",
+            "injection_position": 0,
+            "injection_depth": 4,
+            "injection_order": 100,
+            "injection_trigger": [],
+            "forbid_overrides": false
         }
     ],
     "prompt_order": [
@@ -3965,6 +3979,10 @@
                 {
                     "identifier": "d8f5dfcc-f796-4f03-b561-5151da93fa9d",
                     "enabled": true
+                },
+                {
+                    "identifier": "146a621b-e56b-46e0-a354-aa5717738d74",
+                    "enabled": false
                 },
                 {
                     "identifier": "0aa3df30-f70e-4a1b-a41f-66ecc0db73a5",
