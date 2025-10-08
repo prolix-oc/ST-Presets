@@ -19,6 +19,8 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
   - [Orfevre](#orfevre)
   - [Dream Journey](#dream-journey)
   - [Gold Ship](#gold-ship)
+  - [Symboli Rudolf](#symboli-rudolf)
+  - [Tokai Teio](#tokai-teio)
 
 ## Solo Cards
 
