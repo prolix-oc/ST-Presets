@@ -15,6 +15,10 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
   - [Maruzensky](#maruzensky)
   - [Hishi Amazon](#hishi-amazon)
   - [Taiki Shuttle](#taiki-shuttle)
+  - [Gentildonna](#gentildonna)
+  - [Orfevre](#orfevre)
+  - [Dream Journey](#dream-journey)
+  - [Gold Ship](#gold-ship)
 
 ## Solo Cards
 
@@ -39,7 +43,7 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 ---
 
 ### Super Creek
-![Still In Love](/Character%20Cards%2FUmamusume%2FSuper%20Creek%2FSuper%20Creek%20-%20Maternal%20Strength%20Unleashed.png)
+![Super Creek](/Character%20Cards%2FUmamusume%2FSuper%20Creek%2FSuper%20Creek%20-%20Maternal%20Strength%20Unleashed.png)
 
 #### Downloads
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FSuper%20Creek%2FSuper%20Creek%20-%20Maternal%20Strength%20Unleashed.png)**
@@ -49,7 +53,7 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 ---
 
 ### Maruzensky
-![Still In Love](/Character%20Cards%2FUmamusume%2FMaruzensky%2FMaruzensky%20-%20Retro%20Speed%20Legend.png)
+![Maruzensky](/Character%20Cards%2FUmamusume%2FMaruzensky%2FMaruzensky%20-%20Retro%20Speed%20Legend.png)
 
 #### Downloads
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FMaruzensky%2FMaruzensky%20-%20Retro%20Speed%20Legend.png)**
@@ -59,7 +63,7 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 ---
 
 ### Hishi Amazon
-![Still In Love](/Character%20Cards%2FUmamusume%2FHishi%20Amazon%2FHishi%20Amazon%20-%20Umamusume's%20Passionate%20Challenger.png)
+![Hishi Amazon](/Character%20Cards%2FUmamusume%2FHishi%20Amazon%2FHishi%20Amazon%20-%20Umamusume's%20Passionate%20Challenger.png)
 
 #### Downloads
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FHishi%20Amazon%2FHishi%20Amazon%20-%20Umamusume's%20Passionate%20Challenger.png)**
@@ -69,9 +73,49 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 ---
 
 ### Taiki Shuttle
-![Still In Love](/Character%20Cards%2FUmamusume%2FTaiki%20Shuttle%2FTaiki%20Shuttle%20-%20Dazzling%20Cowgirl%20Encounter.png)
+![Taiki Shuttle](/Character%20Cards%2FUmamusume%2FTaiki%20Shuttle%2FTaiki%20Shuttle%20-%20Dazzling%20Cowgirl%20Encounter.png)
 
 #### Downloads
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FTaiki%20Shuttle%2FTaiki%20Shuttle%20-%20Dazzling%20Cowgirl%20Encounter.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FTaiki%20Shuttle%2FTaiki%20Shuttle%20-%20Dazzling%20Cowgirl%20Encounter.json)**
+
+---
+
+### Gentildonna
+![Gentildonna](/Character%20Cards%2FUmamusume%2FGentildonna%2FGentildonna%20-%20The%20Tyrant's%20Resolve.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FGentildonna%2FGentildonna%20-%20The%20Tyrant's%20Resolve.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FGentildonna%2FGentildonna%20-%20The%20Tyrant's%20Resolve.json)**
+
+---
+
+### Orfevre
+![Orfevre](/Character%20Cards%2FUmamusume%2FOrfevre%2FOrf%C3%A8vre%20-%20Tyrant's%20Golden%20Arrival.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FOrfevre%2FOrf%C3%A8vre%20-%20Tyrant's%20Golden%20Arrival.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FOrfevre%2FOrf%C3%A8vre%20-%20Tyrant's%20Golden%20Arrival.json)**
+
+---
+
+### Dream Journey
+![Dream Journey](/Character%20Cards%2FUmamusume%2FDream%20Journey%2FDream%20Journey%20-%20Calculated%20Courtesies.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FDream%20Journey%2FDream%20Journey%20-%20Calculated%20Courtesies.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FDream%20Journey%2FDream%20Journey%20-%20Calculated%20Courtesies.json)**
+
+---
+
+### Gold Ship
+![Gold Ship](/Character%20Cards%2FUmamusume%2FGold%20Ship%2FGold%20Ship%20-%20Eccentric%20Golden%20Encounter.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FGold%20Ship%2FGold%20Ship%20-%20Eccentric%20Golden%20Encounter.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FGold%20Ship%2FGold%20Ship%20-%20Eccentric%20Golden%20Encounter.json)**
