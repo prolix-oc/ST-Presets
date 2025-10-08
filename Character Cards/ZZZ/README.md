@@ -40,6 +40,7 @@ The content baked into the cards won't make your RP sessions magically smarter, 
   - [Hoshimi Miyabi](#hoshimi-miyabi)
   - [Sweety](#sweety)
   - [Elfy](#elfy)
+  - [Venus](#venus)
   - [Seed (Flora)](#seed-flora)
   - [Pulchra Fellini](#pulchra-fellini)
   - [Pulchra Fellini V2](#pulchra-fellini-v2)
