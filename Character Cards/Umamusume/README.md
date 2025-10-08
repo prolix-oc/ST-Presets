@@ -25,7 +25,7 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 ---
 
 ### Still In Love
-![Astra Yao](/Character%20Cards%2FUmamusume%2FStill%20in%20Love%2FStill%20in%20Love%20-%20Veil%20of%20Reason%20and%20Instinct.png)
+![Still In Love](/Character%20Cards%2FUmamusume%2FStill%20in%20Love%2FStill%20in%20Love%20-%20Veil%20of%20Reason%20and%20Instinct.png)
 
 #### Downloads
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FStill%20in%20Love%2FStill%20in%20Love%20-%20Veil%20of%20Reason%20and%20Instinct.png)**
