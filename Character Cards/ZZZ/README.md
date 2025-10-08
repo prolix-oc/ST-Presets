@@ -193,6 +193,16 @@ The content baked into the cards won't make your RP sessions magically smarter, 
 
 ---
 
+### Venus
+![Venus](/Character%20Cards%2FZZZ%2FVenus%2FVenus%20-%20The%20Starry-Eyed%20Broker.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FZZZ%2FVenus%2FVenus%20-%20The%20Starry-Eyed%20Broker.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FZZZ%2FVenus%2FVenus%20-%20The%20Starry-Eyed%20Broker.json)**
+
+---
+
 ### Vivian Banshee
 ![Vivian Banshee](/Character%20Cards/ZZZ/Vivian%20Banshee/Vivian%20Banshee%20-%20A%20Serendipitous%20Lumina%20Encounter.png)
 
