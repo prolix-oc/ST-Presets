@@ -11,6 +11,10 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 - [Solo Cards](#solo-cards)
   - [Agnes Tachyon](#agnes-tachyon)
   - [Still In Love](#still-in-love)
+  - [Super Creek](#super-creek)
+  - [Maruzensky](#maruzensky)
+  - [Hishi Amazon](#hishi-amazon)
+  - [Taiki Shuttle](#taiki-shuttle)
 
 ## Solo Cards
 
