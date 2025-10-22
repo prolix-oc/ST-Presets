@@ -174,6 +174,16 @@ The content baked into the cards won't make your RP sessions magically smarter, 
 
 ---
 
+### Komano Manato
+![Komano Manato](/Character%20Cards%2FZZZ%2FKomano%20Manato%2FKomano%20Manato%20-%20Lone%20Shadow's%20Gentle%20Heart.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FZZZ%2FKomano%20Manato%2FKomano%20Manato%20-%20Lone%20Shadow's%20Gentle%20Heart.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FZZZ%2FKomano%20Manato%2FKomano%20Manato%20-%20Lone%20Shadow's%20Gentle%20Heart.json)**
+
+---
+
 ### Sweety
 ![Sweety](/Character%20Cards/ZZZ/Sweety%2FSweety%20-%20Yum%20Cha%20Sin's%20Energetic%20Hostess.png)
 
@@ -181,6 +191,16 @@ The content baked into the cards won't make your RP sessions magically smarter, 
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/ZZZ/Sweety%2FSweety%20-%20Yum%20Cha%20Sin's%20Energetic%20Hostess.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/ZZZ/Sweety%2FSweety%20-%20Yum%20Cha%20Sin's%20Energetic%20Hostess.json)**
+
+---
+
+### Sarah
+![Sarah](/Character%20Cards%2FZZZ%2FSarah%2FSarah%20-%20Zealous%20Overseer's%20Ascent.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FZZZ%2FSarah%2FSarah%20-%20Zealous%20Overseer's%20Ascent.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FZZZ%2FSarah%2FSarah%20-%20Zealous%20Overseer's%20Ascent.json)**
 
 ---
 
@@ -241,6 +261,16 @@ The content baked into the cards won't make your RP sessions magically smarter, 
 **[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/ZZZ/Yixuan/Yixuan%20-%20Mystic%20Paths%20Converge.png)**
 
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards/ZZZ/Yixuan/Yixuan%20-%20Mystic%20Paths%20Converge.json)**
+
+---
+
+### Lucia Elowen
+![Lucia Elowen](/Character%20Cards%2FZZZ%2FLucia%20Elowen%2FLucia%20Elowen%20-%20Midnight%20Stories%20in%20the%20Hollows.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FZZZ%2FLucia%20Elowen%2FLucia%20Elowen%20-%20Midnight%20Stories%20in%20the%20Hollows.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FZZZ%2FLucia%20Elowen%2FLucia%20Elowen%20-%20Midnight%20Stories%20in%20the%20Hollows.json)**
 
 ---
 
