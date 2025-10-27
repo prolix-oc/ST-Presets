@@ -74,6 +74,36 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 
 ---
 
+### Mayano Top Gun
+![Mayano Top Gun](/Character%20Cards%2FUmamusume%2FMayano%20Top%20Gun%2FMayano%20Top%20Gun%20-%20Energetic%20Genius%20Pilot.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FMayano%20Top%20Gun%2FMayano%20Top%20Gun%20-%20Energetic%20Genius%20Pilot.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FMayano%20Top%20Gun%2FMayano%20Top%20Gun%20-%20Energetic%20Genius%20Pilot.json)**
+
+---
+
+### Silence Suzuka
+![Silence Suzuka](/Character%20Cards%2FUmamusume%2FSilence%20Suzuka%2FSilence%20Suzuka%20-%20The%20Silent%20Front-Runner.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FSilence%20Suzuka%2FSilence%20Suzuka%20-%20The%20Silent%20Front-Runner.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FSilence%20Suzuka%2FSilence%20Suzuka%20-%20The%20Silent%20Front-Runner.json)**
+
+---
+
+### Curren Chan
+![Curren Chan](/Character%20Cards%2FUmamusume%2FCurren%20Chan%2FCurren%20Chan%20-%20A%20Chance%20Encounter%20with%20Cuteness.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FCurren%20Chan%2FCurren%20Chan%20-%20A%20Chance%20Encounter%20with%20Cuteness.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FCurren%20Chan%2FCurren%20Chan%20-%20A%20Chance%20Encounter%20with%20Cuteness.json)**
+
+---
+
 ### Taiki Shuttle
 ![Taiki Shuttle](/Character%20Cards%2FUmamusume%2FTaiki%20Shuttle%2FTaiki%20Shuttle%20-%20Dazzling%20Cowgirl%20Encounter.png)
 
@@ -83,6 +113,7 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 **[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FTaiki%20Shuttle%2FTaiki%20Shuttle%20-%20Dazzling%20Cowgirl%20Encounter.json)**
 
 ---
+
 
 ### Gentildonna
 ![Gentildonna](/Character%20Cards%2FUmamusume%2FGentildonna%2FGentildonna%20-%20The%20Tyrant's%20Resolve.png)
