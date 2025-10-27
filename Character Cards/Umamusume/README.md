@@ -104,6 +104,16 @@ Well, you made it: the *peak* of Uma RP card experience. Every card in here is c
 
 ---
 
+### T.M. Opera O
+![T.M. Opera O](/Character%20Cards%2FUmamusume%2FTM%20Opera%20O%2FT.M.%20Opera%20O%20-%20Supreme%20King's%20Encounter.png)
+
+#### Downloads
+**[PNG Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FTM%20Opera%20O%2FT.M.%20Opera%20O%20-%20Supreme%20King's%20Encounter.png)**
+
+**[JSON Card](https://raw.githubusercontent.com/prolix-oc/ST-Presets/refs/heads/main/Character%20Cards%2FUmamusume%2FTM%20Opera%20O%2FT.M.%20Opera%20O%20-%20Supreme%20King's%20Encounter.json)**
+
+---
+
 ### Taiki Shuttle
 ![Taiki Shuttle](/Character%20Cards%2FUmamusume%2FTaiki%20Shuttle%2FTaiki%20Shuttle%20-%20Dazzling%20Cowgirl%20Encounter.png)
 
