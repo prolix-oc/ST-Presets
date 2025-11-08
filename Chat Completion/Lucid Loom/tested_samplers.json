@@ -1,6 +1,7 @@
 {
   "kimi-k2-0905": {
     "prettyName": "Kimi K2-0905 Instruct",
+    "slugName": "K2-0905",
     "temperature": 0.85,
     "top_p": 0.92,
     "min_p": 0.03,
@@ -20,6 +21,7 @@
   },
   "gemini-2.5-pro-aistudio": {
     "prettyName": "Gemini 2.5 Pro (AI Studio)",
+    "slugName": "2.5 Pro AIS",
     "temperature": 1.2,
     "top_p": 0.95,
     "min_p": 0.03,
@@ -38,7 +40,8 @@
     ]
   },
   "gemini-2.5-pro-vertex": {
-    "prettyName": "Gemini 2.5 Pro (AI Studio)",
+    "prettyName": "Gemini 2.5 Pro (Vertex)",
+    "slugName": "2.5 Pro Vertex",
     "temperature": 1.15,
     "top_p": 0.95,
     "min_p": 0.03,
@@ -58,6 +61,7 @@
   },
   "claude-sonnet-4-5-20250929": {
     "prettyName": "Claude Sonnet 4.5",
+    "slugName": "Sonnet 4.5",
     "temperature": 1,
     "top_p": 0.95,
     "min_p": 0.03,
@@ -77,6 +81,7 @@
   },
   "kimi-k2-thinking": {
     "prettyName": "Kimi K2 Thinking",
+    "slugName": "K2-Think",
     "temperature": 0.95,
     "top_p": 0.9,
     "min_p": 0.03,
@@ -96,6 +101,7 @@
   },
   "ds-r1-0528": {
     "prettyName": "DeepSeek R1-0528",
+    "slugName": "DS-R1",
     "temperature": 0.65,
     "top_p": 0.93,
     "min_p": 0.03,
@@ -115,6 +121,7 @@
   },
   "ds-v3.1": {
     "prettyName": "DeepSeek V3.1 (and Terminus)",
+    "slugName": "DSV3.1",
     "temperature": 0.7,
     "top_p": 0.95,
     "min_p": 0.04,
@@ -134,6 +141,7 @@
   },
   "ds-v3.2": {
     "prettyName": "DeepSeek V3.2 (and Thinking)",
+    "slugName": "DSV3.2",
     "temperature": 0.75,
     "top_p": 0.95,
     "min_p": 0.04,
@@ -153,6 +161,7 @@
   },
   "glm-4.6": {
     "prettyName": "Z.ai GLM-4.6",
+    "slugName": "GLM-4.6",
     "temperature": 1.0,
     "top_p": 0.96,
     "min_p": 0.04,
