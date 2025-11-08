@@ -14,10 +14,26 @@
     "openai_max_tokens": 32768,
     "squash_system_messages": true,
     "max_context_unlocked": false,
-    "togglePre": [
-      "30971c87-6225-442a-b957-c3089b7d08ef",
-      "7a12fc84-2a65-49ce-948e-f80da527494c"
-    ]
+    "togglePre": {
+      "hardOn": [
+        "30971c87-6225-442a-b957-c3089b7d08ef",
+        "7a12fc84-2a65-49ce-948e-f80da527494c"
+      ],
+      "hardOff": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "e1defc18-f64c-492a-a6da-96f13e295145",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "b315ec03-207e-4d6a-a29a-24b12ef08459",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
+      ]
+    }
   },
   "google/gemini-2.5-pro:studio": {
     "prettyName": "Gemini 2.5 Pro (AI Studio)",
@@ -34,10 +50,26 @@
     "openai_max_tokens": 32768,
     "squash_system_messages": true,
     "max_context_unlocked": false,
-    "togglePre": [
-      "30971c87-6225-442a-b957-c3089b7d08ef",
-      "7a12fc84-2a65-49ce-948e-f80da527494c"
-    ]
+    "togglePre": {
+      "hardOn": [
+        "30971c87-6225-442a-b957-c3089b7d08ef",
+        "7a12fc84-2a65-49ce-948e-f80da527494c"
+      ],
+      "hardOff": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "e1defc18-f64c-492a-a6da-96f13e295145",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "b315ec03-207e-4d6a-a29a-24b12ef08459",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
+      ]
+    }
   },
   "google/gemini-2.5-pro:vertex": {
     "prettyName": "Gemini 2.5 Pro (Vertex)",
@@ -54,10 +86,26 @@
     "openai_max_tokens": 32768,
     "squash_system_messages": true,
     "max_context_unlocked": false,
-    "togglePre": [
-      "30971c87-6225-442a-b957-c3089b7d08ef",
-      "7a12fc84-2a65-49ce-948e-f80da527494c"
-    ]
+    "togglePre": {
+      "hardOn": [
+        "30971c87-6225-442a-b957-c3089b7d08ef",
+        "7a12fc84-2a65-49ce-948e-f80da527494c"
+      ],
+      "hardOff": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "e1defc18-f64c-492a-a6da-96f13e295145",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "b315ec03-207e-4d6a-a29a-24b12ef08459",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
+      ]
+    }
   },
   "anthropic/claude-sonnet-4.5": {
     "prettyName": "Claude Sonnet 4.5",
@@ -74,10 +122,26 @@
     "openai_max_tokens": 32768,
     "squash_system_messages": true,
     "max_context_unlocked": false,
-    "togglePre": [
-      "30971c87-6225-442a-b957-c3089b7d08ef",
-      "7a12fc84-2a65-49ce-948e-f80da527494c"
-    ]
+    "togglePre": {
+      "hardOn": [
+        "30971c87-6225-442a-b957-c3089b7d08ef",
+        "7a12fc84-2a65-49ce-948e-f80da527494c"
+      ],
+      "hardOff": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "e1defc18-f64c-492a-a6da-96f13e295145",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "b315ec03-207e-4d6a-a29a-24b12ef08459",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
+      ]
+    }
   },
   "moonshotai/kimi-k2-thinking": {
     "prettyName": "Kimi K2 Thinking",
@@ -94,10 +158,26 @@
     "openai_max_tokens": 32768,
     "squash_system_messages": true,
     "max_context_unlocked": false,
-    "togglePre": [
-      "a09d47d6-b135-436b-9a6b-4732e7e3d852",
-      "7a12fc84-2a65-49ce-948e-f80da527494c"
-    ]
+    "togglePre": {
+      "hardOn": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "7a12fc84-2a65-49ce-948e-f80da527494c"
+      ],
+      "hardOff": [
+        "30971c87-6225-442a-b957-c3089b7d08ef",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "e1defc18-f64c-492a-a6da-96f13e295145",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "b315ec03-207e-4d6a-a29a-24b12ef08459",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
+      ]
+    }
   },
   "deepseek/deepseek-r1-0528": {
     "prettyName": "DeepSeek R1-0528",
@@ -114,10 +194,26 @@
     "openai_max_tokens": 32768,
     "squash_system_messages": true,
     "max_context_unlocked": false,
-    "togglePre": [
-      "a09d47d6-b135-436b-9a6b-4732e7e3d852",
-      "7a12fc84-2a65-49ce-948e-f80da527494c"
-    ]
+    "togglePre": {
+      "hardOn": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "7a12fc84-2a65-49ce-948e-f80da527494c"
+      ],
+      "hardOff": [
+        "30971c87-6225-442a-b957-c3089b7d08ef",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "e1defc18-f64c-492a-a6da-96f13e295145",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "b315ec03-207e-4d6a-a29a-24b12ef08459",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
+      ]
+    }
   },
   "deepseek/deepseek-chat-v3.1": {
     "prettyName": "DeepSeek V3.1 (and Terminus)",
@@ -154,10 +250,26 @@
     "openai_max_tokens": 32768,
     "squash_system_messages": true,
     "max_context_unlocked": false,
-    "togglePre": [
-      "a09d47d6-b135-436b-9a6b-4732e7e3d852",
-      "7a12fc84-2a65-49ce-948e-f80da527494c"
-    ]
+    "togglePre": {
+      "hardOn": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "7a12fc84-2a65-49ce-948e-f80da527494c"
+      ],
+      "hardOff": [
+        "30971c87-6225-442a-b957-c3089b7d08ef",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "e1defc18-f64c-492a-a6da-96f13e295145",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "b315ec03-207e-4d6a-a29a-24b12ef08459",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
+      ]
+    }
   },
   "z-ai/glm-4.6": {
     "prettyName": "Z.ai GLM-4.6",
@@ -174,10 +286,26 @@
     "openai_max_tokens": 32768,
     "squash_system_messages": true,
     "max_context_unlocked": false,
-    "togglePre": [
-      "a09d47d6-b135-436b-9a6b-4732e7e3d852",
-      "7a12fc84-2a65-49ce-948e-f80da527494c",
-      "e1defc18-f64c-492a-a6da-96f13e295145"
-    ]
+    "togglePre": {
+      "hardOn": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "7a12fc84-2a65-49ce-948e-f80da527494c",
+        "e1defc18-f64c-492a-a6da-96f13e295145"
+      ],
+      "hardOff": [
+        "30971c87-6225-442a-b957-c3089b7d08ef",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "88298884-0566-487a-ba86-7a27f993e05e",
+        "b315ec03-207e-4d6a-a29a-24b12ef08459",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
+      ]
+    }
   }
 }
+
