@@ -167,7 +167,7 @@
         },
         {
             "identifier": "ccb70673-a4aa-4dfb-a192-5a199e33eb10",
-            "name": "‼️READ ME!‼️",
+            "name": "‼️READ ME (OR NOT)!‼️",
             "role": "system",
             "system_prompt": false,
             "marker": false,
