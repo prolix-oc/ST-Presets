@@ -4,10 +4,19 @@
     "temperature": 0.85,
     "top_p": 0.92,
     "min_p": 0.03,
+    "top_k": 0,
     "reasoning_effort": "auto",
     "enable_web_search": false,
     "show_thoughts": false,
-    "stream_openai": true
+    "stream_openai": true,
+    "openai_max_context": 262144,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": false,
+    "togglePre": [
+      "30971c87-6225-442a-b957-c3089b7d08ef",
+      "7a12fc84-2a65-49ce-948e-f80da527494c"
+    ]
   },
   "gemini-2.5-pro-aistudio": {
     "prettyName": "Gemini 2.5 Pro (AI Studio)",
@@ -18,9 +27,17 @@
     "reasoning_effort": "auto",
     "enable_web_search": false,
     "show_thoughts": false,
-    "stream_openai": true
+    "stream_openai": true,
+    "openai_max_context": 125000,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": false,
+    "togglePre": [
+      "30971c87-6225-442a-b957-c3089b7d08ef",
+      "7a12fc84-2a65-49ce-948e-f80da527494c"
+    ]
   },
-    "gemini-2.5-pro-vertex": {
+  "gemini-2.5-pro-vertex": {
     "prettyName": "Gemini 2.5 Pro (AI Studio)",
     "temperature": 1.15,
     "top_p": 0.95,
@@ -29,16 +46,128 @@
     "reasoning_effort": "auto",
     "enable_web_search": false,
     "show_thoughts": false,
-    "stream_openai": true
+    "stream_openai": true,
+    "openai_max_context": 125000,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": false,
+    "togglePre": [
+      "30971c87-6225-442a-b957-c3089b7d08ef",
+      "7a12fc84-2a65-49ce-948e-f80da527494c"
+    ]
   },
   "claude-sonnet-4-5-20250929": {
     "prettyName": "Claude Sonnet 4.5",
     "temperature": 1,
     "top_p": 0.95,
     "min_p": 0.03,
+    "top_k": 0,
     "reasoning_effort": "auto",
     "enable_web_search": false,
     "show_thoughts": false,
-    "stream_openai": true
+    "stream_openai": true,
+    "openai_max_context": 200000,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": false,
+    "togglePre": [
+      "30971c87-6225-442a-b957-c3089b7d08ef",
+      "7a12fc84-2a65-49ce-948e-f80da527494c"
+    ]
+  },
+  "kimi-k2-thinking": {
+    "prettyName": "Kimi K2 Thinking",
+    "temperature": 0.95,
+    "top_p": 0.9,
+    "min_p": 0.03,
+    "top_k": 0,
+    "reasoning_effort": "maximum",
+    "enable_web_search": false,
+    "show_thoughts": true,
+    "stream_openai": true,
+    "openai_max_context": 262144,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": false,
+    "togglePre": [
+      "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+      "7a12fc84-2a65-49ce-948e-f80da527494c"
+    ]
+  },
+  "ds-r1-0528": {
+    "prettyName": "DeepSeek R1-0528",
+    "temperature": 0.65,
+    "top_p": 0.93,
+    "min_p": 0.03,
+    "top_k": 0,
+    "reasoning_effort": "maximum",
+    "enable_web_search": false,
+    "show_thoughts": true,
+    "stream_openai": true,
+    "openai_max_context": 163840,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": false,
+    "togglePre": [
+      "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+      "7a12fc84-2a65-49ce-948e-f80da527494c"
+    ]
+  },
+  "ds-v3.1": {
+    "prettyName": "DeepSeek V3.1 (and Terminus)",
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "min_p": 0.04,
+    "top_k": 0,
+    "reasoning_effort": "auto",
+    "enable_web_search": false,
+    "show_thoughts": false,
+    "stream_openai": true,
+    "openai_max_context": 163840,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": false,
+    "togglePre": [
+      "30971c87-6225-442a-b957-c3089b7d08ef",
+      "7a12fc84-2a65-49ce-948e-f80da527494c"
+    ]
+  },
+  "ds-v3.2": {
+    "prettyName": "DeepSeek V3.2 (and Thinking)",
+    "temperature": 0.75,
+    "top_p": 0.95,
+    "min_p": 0.04,
+    "top_k": 0,
+    "reasoning_effort": "maximum",
+    "enable_web_search": false,
+    "show_thoughts": true,
+    "stream_openai": true,
+    "openai_max_context": 163840,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": false,
+    "togglePre": [
+      "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+      "7a12fc84-2a65-49ce-948e-f80da527494c"
+    ]
+  },
+  "glm-4.6": {
+    "prettyName": "DeepSeek V3.2 (and Thinking)",
+    "temperature": 1.0,
+    "top_p": 0.96,
+    "min_p": 0.04,
+    "top_k": 0,
+    "reasoning_effort": "maximum",
+    "enable_web_search": false,
+    "show_thoughts": true,
+    "stream_openai": true,
+    "openai_max_context": 163840,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": false,
+    "togglePre": [
+      "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+      "7a12fc84-2a65-49ce-948e-f80da527494c"
+    ]
   }
 }
