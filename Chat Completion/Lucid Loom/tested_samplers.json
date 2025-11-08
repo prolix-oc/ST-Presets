@@ -152,7 +152,7 @@
     ]
   },
   "glm-4.6": {
-    "prettyName": "DeepSeek V3.2 (and Thinking)",
+    "prettyName": "Z.ai GLM-4.6",
     "temperature": 1.0,
     "top_p": 0.96,
     "min_p": 0.04,
@@ -167,7 +167,8 @@
     "max_context_unlocked": false,
     "togglePre": [
       "a09d47d6-b135-436b-9a6b-4732e7e3d852",
-      "7a12fc84-2a65-49ce-948e-f80da527494c"
+      "7a12fc84-2a65-49ce-948e-f80da527494c",
+      "e1defc18-f64c-492a-a6da-96f13e295145"
     ]
   }
 }
