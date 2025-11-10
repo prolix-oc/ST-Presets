@@ -12,7 +12,7 @@
     "stream_openai": true,
     "openai_max_context": 262144,
     "openai_max_tokens": 32768,
-    "squash_system_messages": true,
+    "squash_system_messages": false,
     "max_context_unlocked": false,
     "togglePre": {
       "hardOn": [
@@ -26,10 +26,7 @@
         "6988ed7c-4083-45ef-aae9-81fda9a39a01",
         "e1defc18-f64c-492a-a6da-96f13e295145",
         "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
-        "88298884-0566-487a-ba86-7a27f993e05e",
         "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
-        "88298884-0566-487a-ba86-7a27f993e05e",
-        "b315ec03-207e-4d6a-a29a-24b12ef08459",
         "6cf35586-203a-41f5-b08d-78bf5cfa4451",
         "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
       ]
@@ -38,9 +35,9 @@
   "google/gemini-2.5-pro:studio": {
     "prettyName": "Gemini 2.5 Pro (AI Studio)",
     "slugName": "2.5 Pro AIS",
-    "temperature": 1.2,
-    "top_p": 0.95,
-    "min_p": 0.03,
+    "temperature": 1.45,
+    "top_p": 0.9,
+    "min_p": 0.02,
     "top_k": 255,
     "reasoning_effort": "auto",
     "enable_web_search": false,
@@ -48,7 +45,7 @@
     "stream_openai": true,
     "openai_max_context": 125000,
     "openai_max_tokens": 32768,
-    "squash_system_messages": true,
+    "squash_system_messages": false,
     "max_context_unlocked": false,
     "togglePre": {
       "hardOn": [
@@ -62,10 +59,7 @@
         "6988ed7c-4083-45ef-aae9-81fda9a39a01",
         "e1defc18-f64c-492a-a6da-96f13e295145",
         "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
-        "88298884-0566-487a-ba86-7a27f993e05e",
         "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
-        "88298884-0566-487a-ba86-7a27f993e05e",
-        "b315ec03-207e-4d6a-a29a-24b12ef08459",
         "6cf35586-203a-41f5-b08d-78bf5cfa4451",
         "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
       ]
@@ -84,7 +78,7 @@
     "stream_openai": true,
     "openai_max_context": 125000,
     "openai_max_tokens": 32768,
-    "squash_system_messages": true,
+    "squash_system_messages": false,
     "max_context_unlocked": false,
     "togglePre": {
       "hardOn": [
@@ -98,10 +92,7 @@
         "6988ed7c-4083-45ef-aae9-81fda9a39a01",
         "e1defc18-f64c-492a-a6da-96f13e295145",
         "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
-        "88298884-0566-487a-ba86-7a27f993e05e",
         "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
-        "88298884-0566-487a-ba86-7a27f993e05e",
-        "b315ec03-207e-4d6a-a29a-24b12ef08459",
         "6cf35586-203a-41f5-b08d-78bf5cfa4451",
         "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
       ]
@@ -120,7 +111,7 @@
     "stream_openai": true,
     "openai_max_context": 200000,
     "openai_max_tokens": 32768,
-    "squash_system_messages": true,
+    "squash_system_messages": false,
     "max_context_unlocked": false,
     "togglePre": {
       "hardOn": [
@@ -134,10 +125,7 @@
         "6988ed7c-4083-45ef-aae9-81fda9a39a01",
         "e1defc18-f64c-492a-a6da-96f13e295145",
         "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
-        "88298884-0566-487a-ba86-7a27f993e05e",
         "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
-        "88298884-0566-487a-ba86-7a27f993e05e",
-        "b315ec03-207e-4d6a-a29a-24b12ef08459",
         "6cf35586-203a-41f5-b08d-78bf5cfa4451",
         "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
       ]
@@ -156,7 +144,7 @@
     "stream_openai": true,
     "openai_max_context": 262144,
     "openai_max_tokens": 32768,
-    "squash_system_messages": true,
+    "squash_system_messages": false,
     "max_context_unlocked": false,
     "togglePre": {
       "hardOn": [
@@ -170,10 +158,7 @@
         "6988ed7c-4083-45ef-aae9-81fda9a39a01",
         "e1defc18-f64c-492a-a6da-96f13e295145",
         "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
-        "88298884-0566-487a-ba86-7a27f993e05e",
         "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
-        "88298884-0566-487a-ba86-7a27f993e05e",
-        "b315ec03-207e-4d6a-a29a-24b12ef08459",
         "6cf35586-203a-41f5-b08d-78bf5cfa4451",
         "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
       ]
@@ -192,7 +177,7 @@
     "stream_openai": true,
     "openai_max_context": 163840,
     "openai_max_tokens": 32768,
-    "squash_system_messages": true,
+    "squash_system_messages": false,
     "max_context_unlocked": false,
     "togglePre": {
       "hardOn": [
@@ -206,10 +191,7 @@
         "6988ed7c-4083-45ef-aae9-81fda9a39a01",
         "e1defc18-f64c-492a-a6da-96f13e295145",
         "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
-        "88298884-0566-487a-ba86-7a27f993e05e",
         "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
-        "88298884-0566-487a-ba86-7a27f993e05e",
-        "b315ec03-207e-4d6a-a29a-24b12ef08459",
         "6cf35586-203a-41f5-b08d-78bf5cfa4451",
         "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
       ]
@@ -228,7 +210,7 @@
     "stream_openai": true,
     "openai_max_context": 163840,
     "openai_max_tokens": 32768,
-    "squash_system_messages": true,
+    "squash_system_messages": false,
     "max_context_unlocked": false,
     "togglePre": [
       "30971c87-6225-442a-b957-c3089b7d08ef",
@@ -248,7 +230,7 @@
     "stream_openai": true,
     "openai_max_context": 163840,
     "openai_max_tokens": 32768,
-    "squash_system_messages": true,
+    "squash_system_messages": false,
     "max_context_unlocked": false,
     "togglePre": {
       "hardOn": [
@@ -262,10 +244,7 @@
         "6988ed7c-4083-45ef-aae9-81fda9a39a01",
         "e1defc18-f64c-492a-a6da-96f13e295145",
         "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
-        "88298884-0566-487a-ba86-7a27f993e05e",
         "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
-        "88298884-0566-487a-ba86-7a27f993e05e",
-        "b315ec03-207e-4d6a-a29a-24b12ef08459",
         "6cf35586-203a-41f5-b08d-78bf5cfa4451",
         "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
       ]
@@ -284,7 +263,7 @@
     "stream_openai": true,
     "openai_max_context": 202752,
     "openai_max_tokens": 32768,
-    "squash_system_messages": true,
+    "squash_system_messages": false,
     "max_context_unlocked": false,
     "togglePre": {
       "hardOn": [
@@ -298,14 +277,10 @@
         "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
         "6988ed7c-4083-45ef-aae9-81fda9a39a01",
         "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
-        "88298884-0566-487a-ba86-7a27f993e05e",
         "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
-        "88298884-0566-487a-ba86-7a27f993e05e",
-        "b315ec03-207e-4d6a-a29a-24b12ef08459",
         "6cf35586-203a-41f5-b08d-78bf5cfa4451",
         "e5e08113-5db5-4383-a2e5-f9b81e01c06d"
       ]
     }
   }
 }
-
