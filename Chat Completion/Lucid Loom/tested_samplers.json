@@ -76,7 +76,7 @@
     "enable_web_search": false,
     "show_thoughts": false,
     "stream_openai": true,
-    "openai_max_context": 125000,
+    "openai_max_context": 1000000,
     "openai_max_tokens": 32768,
     "squash_system_messages": false,
     "max_context_unlocked": false,
