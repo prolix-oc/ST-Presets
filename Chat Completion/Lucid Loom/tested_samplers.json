@@ -98,6 +98,78 @@
       ]
     }
   },
+  "google/gemini-3-pro-preview:vertex": {
+    "prettyName": "Gemini 3 Pro Preview (Vertex)",
+    "slugName": "3 Pro Preview Vertex",
+    "temperature": 1.15,
+    "top_p": 0.95,
+    "min_p": 0.03,
+    "top_k": 64,
+    "reasoning_effort": "auto",
+    "enable_web_search": false,
+    "show_thoughts": false,
+    "stream_openai": true,
+    "openai_max_context": 1000000,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": true,
+    "togglePre": {
+      "hardOn": [
+        "2db8ac62-27ba-4cc4-a7e1-e92ee5d7f314",
+        "7a12fc84-2a65-49ce-948e-f80da527494c",
+        "aecb2224-2667-4ff0-a81b-e131fda8147e"
+      ],
+      "hardOff": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "e1defc18-f64c-492a-a6da-96f13e295145",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d",
+        "1b873778-d393-415b-ac56-54d60b957736",
+        "32d659b4-0f62-43f3-a202-e1c01e8daa67"
+      ]
+    }
+  },
+  "google/gemini-3-pro-preview:studio": {
+    "prettyName": "Gemini 3 Pro Preview (AI Studio)",
+    "slugName": "3 Pro Preview AIS",
+    "temperature": 1.2,
+    "top_p": 0.97,
+    "min_p": 0.03,
+    "top_k": 255,
+    "reasoning_effort": "auto",
+    "enable_web_search": false,
+    "show_thoughts": false,
+    "stream_openai": true,
+    "openai_max_context": 125000,
+    "openai_max_tokens": 32768,
+    "squash_system_messages": true,
+    "max_context_unlocked": true,
+    "togglePre": {
+      "hardOn": [
+        "2db8ac62-27ba-4cc4-a7e1-e92ee5d7f314",
+        "7a12fc84-2a65-49ce-948e-f80da527494c",
+        "aecb2224-2667-4ff0-a81b-e131fda8147e"
+      ],
+      "hardOff": [
+        "a09d47d6-b135-436b-9a6b-4732e7e3d852",
+        "937afdec-540e-4665-9f9d-e2323239a030",
+        "6788cd6b-d2a1-4390-b064-c67c21efe4f9",
+        "6988ed7c-4083-45ef-aae9-81fda9a39a01",
+        "e1defc18-f64c-492a-a6da-96f13e295145",
+        "fc0d6c88-445e-40dc-b831-3c95cd8c3213",
+        "da76cbe7-ae49-43ed-b8f3-2e2291559c4b",
+        "6cf35586-203a-41f5-b08d-78bf5cfa4451",
+        "e5e08113-5db5-4383-a2e5-f9b81e01c06d",
+        "1b873778-d393-415b-ac56-54d60b957736",
+        "32d659b4-0f62-43f3-a202-e1c01e8daa67"
+      ]
+    }
+  },
   "anthropic/claude-sonnet-4.5": {
     "prettyName": "Claude Sonnet 4.5",
     "slugName": "Sonnet 4.5",
