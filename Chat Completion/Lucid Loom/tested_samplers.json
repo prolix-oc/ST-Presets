@@ -68,8 +68,8 @@
   "google/gemini-3-pro-preview:studio": {
     "prettyName": "Gemini 3 Pro Preview (AI Studio)",
     "slugName": "3 Pro Preview AIS",
-    "temperature": 1.2,
-    "top_p": 0.97,
+    "temperature": 1.1,
+    "top_p": 0.96,
     "min_p": 0.03,
     "top_k": 255,
     "reasoning_effort": "auto",
@@ -104,8 +104,8 @@
   "google/gemini-2.5-pro:vertex": {
     "prettyName": "Gemini 2.5 Pro (Vertex)",
     "slugName": "2.5 Pro Vertex",
-    "temperature": 1.15,
-    "top_p": 0.95,
+    "temperature": 1.45,
+    "top_p": 0.90,
     "min_p": 0.03,
     "top_k": 64,
     "reasoning_effort": "auto",
