@@ -6,7 +6,7 @@
       "key": [],
       "keysecondary": [],
       "comment": "~~📊 Lumia Variable Clearing 📊~~",
-      "content": "{{setvar::lumia_behavior_knight::}}{{setvar::lumia_behavior_deer::}}{{setvar::lumia_behavior_bunny::}}{{setvar::lumia_behavior_sheep::}}{{setvar::lumia_behavior_oujou::}}{{setvar::lumia_behavior_chuuni::}}{{setvar::lumia_behavior_gyaru::}}{{setvar::lumia_behavior_prima::}}{{setvar::lumia_behavior_ghost::}}{{setvar::lumia_behavior_lofi::}}{{setvar::lumia_behavior_patchwork::}}{{setvar::lumia_behavior_suave::}}",
+      "content": "{{setvar::lumia_behavior_knight::}}{{setvar::lumia_behavior_deer::}}{{setvar::lumia_behavior_bunny::}}{{setvar::lumia_behavior_sheep::}}{{setvar::lumia_behavior_oujou::}}{{setvar::lumia_behavior_chuuni::}}{{setvar::lumia_behavior_gyaru::}}{{setvar::lumia_behavior_prima::}}{{setvar::lumia_behavior_ghost::}}{{setvar::lumia_behavior_lofi::}}{{setvar::lumia_behavior_patchwork::}}{{setvar::lumia_behavior_suave::}}{{setglobablvar::lumia_personality_suave::}}{{setglobablvar::lumia_personality_patchwork::}}{{setglobablvar::lumia_personality_knight::}}{{setglobablvar::lumia_personality_deer::}}{{setglobablvar::lumia_personality_bunny::}}{{setglobablvar::lumia_personality_sheep::}}{{setglobablvar::lumia_personality_oujou::}}{{setglobablvar::lumia_personality_chuuni::}}{{setglobablvar::lumia_personality_gyaru::}}{{setglobablvar::lumia_personality_prima::}}{{setglobablvar::lumia_personality_ghost::}}{{setglobablvar::lumia_personality_lofi::}}",
       "constant": true,
       "vectorized": false,
       "selective": true,
