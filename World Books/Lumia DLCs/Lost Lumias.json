@@ -656,9 +656,8 @@
       "delay": 0,
       "triggers": [],
       "displayIndex": 14
-    }
-  },
-  "15": {
+    },
+    "15": {
       "uid": 15,
       "key": [],
       "keysecondary": [],
@@ -702,4 +701,5 @@
       "displayIndex": 0,
       "characterFilter": { "isExclude": false, "names": [], "tags": [] }
     }
+  }
 }
