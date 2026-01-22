@@ -2,66 +2,66 @@
   "moonshotai/kimi-k2-0905": {
     "prettyName": "Kimi K2-0905 Instruct",
     "slugName": "K2-0905",
-    "stateFile": "v3.2/k2-instruct.state.json"
+    "stateFile": "v3.3/k2-instruct.state.json"
   },
   "google/gemini-2.5-pro:studio": {
     "prettyName": "Gemini 2.5 Pro (AI Studio)",
-    "slugName": "2.5 Pro AIS",
-    "stateFile": "v3.2/gem2.5-ais.state.json"
+    "slugName": "2.5-Pro-AIS",
+    "stateFile": "v3.3/gem2.5-ais.state.json"
   },
   "google/gemini-3-pro-preview:studio": {
     "prettyName": "Gemini 3 Pro Preview (AI Studio)",
-    "slugName": "3 Pro Preview AIS",
-    "stateFile": "v3.2/gem3-ais.state.json"
+    "slugName": "3-Pro-Preview-AIS",
+    "stateFile": "v3.3/gem3-ais.state.json"
   },
   "google/gemini-2.5-pro:vertex": {
     "prettyName": "Gemini 2.5 Pro (Vertex)",
-    "slugName": "2.5 Pro Vertex",
-    "stateFile": "v3.2/gem2.5-vertex.state.json"
+    "slugName": "2.5-Pro-Vertex",
+    "stateFile": "v3.3/gem2.5-vertex.state.json"
   },
   "google/gemini-3-pro-preview:vertex": {
     "prettyName": "Gemini 3 Pro Preview (Vertex)",
-    "slugName": "3 Pro Preview Vertex",
-    "stateFile": "v3.2/gem3-vertex.state.json"
+    "slugName": "3-Pro-Preview-Vertex",
+    "stateFile": "v3.3/gem3-vertex.state.json"
   },
   "anthropic/claude-sonnet-4.5": {
     "prettyName": "Claude Sonnet 4.5",
-    "slugName": "Sonnet 4.5",
-    "stateFile": "v3.2/sonnet.state.json"
+    "slugName": "Sonnet-4.5",
+    "stateFile": "v3.3/sonnet.state.json"
   },
   "anthropic/claude-opus-4.5": {
     "prettyName": "Claude Opus 4.5",
-    "slugName": "Opus 4.5",
-    "stateFile": "v3.2/opus.state.json"
+    "slugName": "Opus-4.5",
+    "stateFile": "v3.3/opus.state.json"
   },
   "moonshotai/kimi-k2-thinking": {
     "prettyName": "Kimi K2 Thinking",
     "slugName": "K2-Think",
-    "stateFile": "v3.2/k2-thinking.state.json"
+    "stateFile": "v3.3/k2-thinking.state.json"
   },
   "deepseek/deepseek-r1-0528": {
     "prettyName": "DeepSeek R1-0528",
     "slugName": "DS-R1",
-    "stateFile": "v3.2/ds-3.2.state.json"
+    "stateFile": "v3.3/ds-3.2.state.json"
   },
-  "deepseek/deepseek-chat-v3.1": {
+  "deepseek/deepseek-v3.1": {
     "prettyName": "DeepSeek V3.1 (and Terminus)",
-    "slugName": "DSV3.1",
-    "stateFile": "v3.2/ds-3.2.state.json"
+    "slugName": "DS-V3.1",
+    "stateFile": "v3.3/ds-3.2.state.json"
   },
-  "deepseek/deepseek-chat-v3.2-exp": {
+  "deepseek/deepseek-v3.2": {
     "prettyName": "DeepSeek V3.2 (and Thinking)",
-    "slugName": "DSV3.2",
-    "stateFile": "v3.2/ds-3.2.state.json"
+    "slugName": "DS-V3.2",
+    "stateFile": "v3.3/ds-3.2.state.json"
   },
   "z-ai/glm-4.6": {
     "prettyName": "Z.ai GLM-4.6",
     "slugName": "GLM-4.6",
-    "stateFile": "v3.2/glm-4.6.state.json"
+    "stateFile": "v3.3/glm-4.6.state.json"
   },
     "z-ai/glm-4.7": {
     "prettyName": "Z.ai GLM-4.7",
     "slugName": "GLM-4.7",
-    "stateFile": "v3.2/glm-4.7.state.json"
+    "stateFile": "v3.3/glm-4.7.state.json"
   }
 }
