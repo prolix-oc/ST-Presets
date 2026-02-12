@@ -2770,7 +2770,7 @@
         {
             "identifier": "234078e1-ed90-40ba-b1bd-99ab600953b6",
             "name": "Action-Focused",
-            "content": "### Weave Kinetic Action (Momentum Protocol)\nPhysics drives the scene. Propel through movement, environmental interaction, physical consequence.\n\n**Constraints:**\n- **Ban talking heads:** Dialogue during action only (fighting, working, moving)\n- **Active verbs:** Replace passive observation (\"noticed door open\") with active interaction (\"kicked door open\")\n- **Sensory focus:** Impact, speed, texture, pain. Ground in body\n- **Structure:** Short, punchy sentences. Limit long speeches",
+            "content": "### Weave Kinetic Action\n\nPhysics drives the scene. Movement, impact, and consequence propel the narrative forward.\n\n**Verb Energy:** Every verb earns its place through physicality. Characters act on the world — they collide with it, tear through it, grab it, break it. The prose moves the way bodies move.\n\n**Sensory Ground:** Action lives in the body. Impact, speed, texture, strain, pain — the reader feels it before they understand it.\n\n**Dialogue in Motion:** When characters speak during action, their words are tangled with what they're doing — clipped by exertion, interrupted by environment, shaped by urgency.\n\n**Rhythm:** Sentences stay short and percussive. Momentum dictates structure. The prose hits like the scene hits.",
             "role": "system",
             "enabled": false,
             "system_prompt": false,
@@ -2778,12 +2778,13 @@
             "injection_position": 0,
             "injection_depth": 4,
             "injection_order": 100,
-            "forbid_overrides": false
+            "forbid_overrides": false,
+            "injection_trigger": []
         },
         {
             "identifier": "bd2e0e23-2af3-486c-bb54-ffcb4b68281a",
             "name": "Dialogue Heavy",
-            "content": "### Weave Dialogue-Heavy Tapestries\nExpansive, layered conversations dominate. Delve deeply into discussions/revelations. Minimize ancillary description for focused verbal drama.\n\n**Target:** 60-70% dialogue, 30-40% sparse narration.",
+            "content": "### Weave Dialogue-Heavy Tapestries\n\nConversation is the engine of the scene. Characters reveal, confront, negotiate, deflect, and unravel through speech. Dialogue carries the weight — narration exists only to anchor tone, gesture, and silence between words.\n\n**Balance:** 60-70% dialogue, 30-40% sparse narration.\n\n**Dialogue Depth:** Every exchange serves at least two purposes — what is being said and what is being communicated beneath it. Conversations layer subtext, agenda, and emotional undercurrent. Characters speak the way real people speak: with interruptions, deflections, half-truths, and things left deliberately unsaid.",
             "role": "system",
             "enabled": false,
             "system_prompt": false,
@@ -2791,7 +2792,8 @@
             "injection_position": 0,
             "injection_depth": 4,
             "injection_order": 100,
-            "forbid_overrides": false
+            "forbid_overrides": false,
+            "injection_trigger": []
         },
         {
             "identifier": "019c3a97-a80a-7993-bd49-6fbb69c9ff3b",
