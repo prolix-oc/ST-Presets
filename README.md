@@ -32,7 +32,7 @@ World books are lore compendiums—modular lorebooks for expanding universe-buil
 ## Contributing and Usage Guidelines
 This repo is my personal forge, but feel free to fork, adapt, or draw inspiration. If you encounter issues or have suggestions, open an issue.
 
-- **License**: MIT—use freely, but credit where echoes linger.
+- **License**: AGPL 3.0—use freely, but credit where echoes linger.
 - **Dependencies**: None; these are self-contained assets. Ensure your chat app supports the respective formats.
 - **Updates**: I'll push refinements as evaluations progress. Check the commit history for the latest calibrations.
 
